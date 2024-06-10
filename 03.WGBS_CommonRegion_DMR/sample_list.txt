@@ -1,0 +1,8 @@
+C1	At-C1.bam.CGmap.gz
+C2	At-C2.bam.CGmap.gz
+a1	At-a1.bam.CGmap.gz
+a2	At-a2.bam.CGmap.gz
+121	At-121.bam.CGmap.gz
+122	At-122.bam.CGmap.gz
+a121	At-a121.bam.CGmap.gz
+a122	At-a122.bam.CGmap.gz

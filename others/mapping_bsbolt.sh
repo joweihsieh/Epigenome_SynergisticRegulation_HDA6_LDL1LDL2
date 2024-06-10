@@ -1,0 +1,21 @@
+bsbolt Align -t 40 -F1 SRR13443687_1_paired.fastq.gz -DB ~/genome/Arabidopsis_thaliana/Ensembl/TAIR10/Sequence/bsbolt/tair10 -O SRR13443687_1 > SRR13443687_1.log
+bsbolt Align -t 40 -F1 SRR13443688_1_paired.fastq.gz -DB ~/genome/Arabidopsis_thaliana/Ensembl/TAIR10/Sequence/bsbolt/tair10 -O SRR13443688_1 > SRR13443688_1.log
+bsbolt Align -t 40 -F1 SRR1569252_1_paired.fastq.gz -DB ~/genome/Arabidopsis_thaliana/Ensembl/TAIR10/Sequence/bsbolt/tair10 -O SRR1569252_1 > SRR1569252_1.log
+bsbolt Align -t 40 -F1 SRR1569253_1_paired.fastq.gz -DB ~/genome/Arabidopsis_thaliana/Ensembl/TAIR10/Sequence/bsbolt/tair10 -O SRR1569253_1 > SRR1569253_1.log
+bsbolt Align -t 40 -F1 SRR24421255_1_paired.fastq.gz -DB ~/genome/Arabidopsis_thaliana/Ensembl/TAIR10/Sequence/bsbolt/tair10 -O SRR24421255_1 > SRR24421255_1.log
+bsbolt Align -t 40 -F1 SRR24421259_1_paired.fastq.gz -DB ~/genome/Arabidopsis_thaliana/Ensembl/TAIR10/Sequence/bsbolt/tair10 -O SRR24421259_1 > SRR24421259_1.log
+bsbolt Align -t 40 -F1 SRR24476325_1_paired.fastq.gz -DB ~/genome/Arabidopsis_thaliana/Ensembl/TAIR10/Sequence/bsbolt/tair10 -O SRR24476325_1 > SRR24476325_1.log
+bsbolt Align -t 40 -F1 SRR24476326_1_paired.fastq.gz -DB ~/genome/Arabidopsis_thaliana/Ensembl/TAIR10/Sequence/bsbolt/tair10 -O SRR24476326_1 > SRR24476326_1.log
+bsbolt Align -t 40 -F1 SRR5239972_1_paired.fastq.gz -DB ~/genome/Arabidopsis_thaliana/Ensembl/TAIR10/Sequence/bsbolt/tair10 -O SRR5239972_1 > SRR5239972_1.log
+bsbolt Align -t 40 -F1 SRR5239973_1_paired.fastq.gz -DB ~/genome/Arabidopsis_thaliana/Ensembl/TAIR10/Sequence/bsbolt/tair10 -O SRR5239973_1 > SRR5239973_1.log
+bsbolt Align -t 40 -F1 SRR5239984_1_paired.fastq.gz -DB ~/genome/Arabidopsis_thaliana/Ensembl/TAIR10/Sequence/bsbolt/tair10 -O SRR5239984_1 > SRR5239984_1.log
+bsbolt Align -t 40 -F1 SRR5239985_1_paired.fastq.gz -DB ~/genome/Arabidopsis_thaliana/Ensembl/TAIR10/Sequence/bsbolt/tair10 -O SRR5239985_1 > SRR5239985_1.log
+bsbolt Align -t 40 -F1 SRR5277784_1_paired.fastq.gz -DB ~/genome/Arabidopsis_thaliana/Ensembl/TAIR10/Sequence/bsbolt/tair10 -O SRR5277784_1 > SRR5277784_1.log
+bsbolt Align -t 40 -F1 SRR5320832_1_paired.fastq.gz -DB ~/genome/Arabidopsis_thaliana/Ensembl/TAIR10/Sequence/bsbolt/tair10 -O SRR5320832_1 > SRR5320832_1.log
+bsbolt Align -t 40 -F1 SRR5320833_1_paired.fastq.gz -DB ~/genome/Arabidopsis_thaliana/Ensembl/TAIR10/Sequence/bsbolt/tair10 -O SRR5320833_1 > SRR5320833_1.log
+bsbolt Align -t 40 -F1 SRR6675996_1_paired.fastq.gz -DB ~/genome/Arabidopsis_thaliana/Ensembl/TAIR10/Sequence/bsbolt/tair10 -O SRR6675996_1 > SRR6675996_1.log
+bsbolt Align -t 40 -F1 SRR6675997_1_paired.fastq.gz -DB ~/genome/Arabidopsis_thaliana/Ensembl/TAIR10/Sequence/bsbolt/tair10 -O SRR6675997_1 > SRR6675997_1.log
+bsbolt Align -t 40 -F1 SRR7346214_1_paired.fastq.gz -DB ~/genome/Arabidopsis_thaliana/Ensembl/TAIR10/Sequence/bsbolt/tair10 -O SRR7346214_1 > SRR7346214_1.log
+bsbolt Align -t 40 -F1 SRR7346216_1_paired.fastq.gz -DB ~/genome/Arabidopsis_thaliana/Ensembl/TAIR10/Sequence/bsbolt/tair10 -O SRR7346216_1 > SRR7346216_1.log
+
+bsbolt Align -t 60 -F1 SRR5277785_1_paired.fastq.gz -DB ~/genome/Arabidopsis_thaliana/Ensembl/TAIR10/Sequence/bsbolt/tair10 -O SRR5277785_1 > SRR5277785_1.log

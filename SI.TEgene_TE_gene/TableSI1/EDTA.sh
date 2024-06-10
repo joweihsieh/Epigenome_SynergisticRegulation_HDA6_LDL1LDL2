@@ -1,0 +1,1 @@
+EDTA_raw.pl --genome tair10.fa --species others --sensitive 1 --step all --anno 1 --threads 20

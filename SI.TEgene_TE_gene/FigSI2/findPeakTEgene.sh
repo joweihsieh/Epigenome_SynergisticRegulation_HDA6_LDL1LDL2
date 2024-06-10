@@ -1,0 +1,16 @@
+bedtools intersect -a tair10_TE.bed -b ChIP_H3Ac_WT_1_peaks.narrowPeak -wa -u > ChIP_H3Ac_WT_1_TE.bed
+bedtools intersect -a tair10_TE.bed -b ChIP_H3Ac_WT_2_peaks.narrowPeak -wa -u > ChIP_H3Ac_WT_2_TE.bed
+bedtools intersect -a tair10_TE.bed -b ChIP_H3Ac_hda6_1_peaks.narrowPeak -wa -u > ChIP_H3Ac_hda6_1_TE.bed
+bedtools intersect -a tair10_TE.bed -b ChIP_H3Ac_hda6_2_peaks.narrowPeak -wa -u > ChIP_H3Ac_hda6_2_TE.bed
+bedtools intersect -a tair10_TE.bed -b ChIP_H3Ac_hda6ldl12_1_peaks.narrowPeak -wa -u > ChIP_H3Ac_hda6ldl12_1_TE.bed
+bedtools intersect -a tair10_TE.bed -b ChIP_H3Ac_hda6ldl12_2_peaks.narrowPeak -wa -u > ChIP_H3Ac_hda6ldl12_2_TE.bed
+bedtools intersect -a tair10_TE.bed -b ChIP_H3Ac_ldl12_1_peaks.narrowPeak -wa -u > ChIP_H3Ac_ldl12_1_TE.bed
+bedtools intersect -a tair10_TE.bed -b ChIP_H3Ac_ldl12_2_peaks.narrowPeak -wa -u > ChIP_H3Ac_ldl12_2_TE.bed
+bedtools intersect -a tair10_TE.bed -b ChIP_H3K4me2_WT_1_peaks.narrowPeak -wa -u > ChIP_H3K4me2_WT_1_TE.bed
+bedtools intersect -a tair10_TE.bed -b ChIP_H3K4me2_WT_2_peaks.narrowPeak -wa -u > ChIP_H3K4me2_WT_2_TE.bed
+bedtools intersect -a tair10_TE.bed -b ChIP_H3K4me2_hda6_1_peaks.narrowPeak -wa -u > ChIP_H3K4me2_hda6_1_TE.bed
+bedtools intersect -a tair10_TE.bed -b ChIP_H3K4me2_hda6_2_peaks.narrowPeak -wa -u > ChIP_H3K4me2_hda6_2_TE.bed
+bedtools intersect -a tair10_TE.bed -b ChIP_H3K4me2_hda6ldl12_1_peaks.narrowPeak -wa -u > ChIP_H3K4me2_hda6ldl12_1_TE.bed
+bedtools intersect -a tair10_TE.bed -b ChIP_H3K4me2_hda6ldl12_2_peaks.narrowPeak -wa -u > ChIP_H3K4me2_hda6ldl12_2_TE.bed
+bedtools intersect -a tair10_TE.bed -b ChIP_H3K4me2_ldl12_1_peaks.narrowPeak -wa -u > ChIP_H3K4me2_ldl12_1_TE.bed
+bedtools intersect -a tair10_TE.bed -b ChIP_H3K4me2_ldl12_2_peaks.narrowPeak -wa -u > ChIP_H3K4me2_ldl12_2_TE.bed
