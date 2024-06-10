@@ -1,6 +1,5 @@
-fpkm_1 <- read.table("fpkm_GeneNTE.txt")
-fpkm_2 <- read.table("fpkm_TEgene.txt",header=T, row.names="Row.names")
-fpkm_3 <- read.table("fpkm_TE.txt",header=T, row.names="Row.names")
+fpkm_1 <- read.table("rpkm_2.txt")
+fpkm_3 <- read.table("TE_combined_rpkm.txt",header=T, row.names="Row.names")
 fpkm_3$WT <- apply(fpkm_3[,6:8],1,mean)
 fpkm_3$hda6 <- apply(fpkm_3[,13:14],1,mean)
 fpkm_3$ldl12 <- apply(fpkm_3[,9:10],1,mean)
